@@ -1,9 +1,7 @@
-Hi 👋 My name is Jahnavi Reddy
-==============================
 
-Software Developer
-------------------
+![github-header-image](https://github.com/user-attachments/assets/c800f1ac-b4ad-4b51-a532-57ce4e90b160)
 
+### About Me 
 I’m Jahnavi Sai Reddy, a final-year B.Tech student at VIT Vellore, specializing in Computer Science and Engineering with a focus on Information Security. With hands-on experience in both frontend and backend development using the MERN stack, I’m passionate about creating seamless user experiences and building secure software systems. My internships at Razorpay and Ethnus have equipped me with valuable skills in optimizing system performance and collaborating in cross-functional teams. Eager to deepen my understanding of AI, I’m open to opportunities in software development and backend engineering. Let’s connect and create something amazing!
 
 *   🌍  I'm based in Vellore, India
